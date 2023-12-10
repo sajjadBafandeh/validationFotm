@@ -12,5 +12,6 @@
             "email": "sajjad.bafandeh.9799@gmail.com"
         }
     ],
+    "license": ["MIT"],
     "require": {}
 }
