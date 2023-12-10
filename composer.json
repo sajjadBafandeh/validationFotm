@@ -1,0 +1,15 @@
+{
+    "name": "sajjadbafandeh/validat",
+    "autoload": {
+        "psr-4": {
+            "Sajjadbafandeh\\Validat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sajjad bafandeh",
+            "email": "sajjad.bafandeh.9799@gmail.com"
+        }
+    ],
+    "require": {}
+}
