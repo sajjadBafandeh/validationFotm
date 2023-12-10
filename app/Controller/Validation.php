@@ -3,7 +3,7 @@
 
 class Validation
 {
-    public function check(array $data , string $fild) : bool
+    public function search(array $data , string $fild) : bool
     {
         return isset($data[$fild]);
     }
