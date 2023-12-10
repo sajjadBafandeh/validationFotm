@@ -2,11 +2,7 @@
     "name": "sajjadbafandeh/validat",
     "autoload": {
         "psr-4": {
-            "Sajjadbafandeh\\Validat\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
+            "Sajjadbafandeh\\Validat\\": "src/",
             "App\\" : "app/"
         }
     },
